@@ -3,7 +3,7 @@ The Child Detection Dataset (CDD) collected from pexel.com with bounding box ann
 
 <div align=center><img src="val_batch1_labels.jpg" width="787px" height="392px"/></div>
 
-The dataset includes 1920 image of child collected on pexels.com. Images and annotations are available on this link.
+The dataset includes 1920 image of child collected on pexels.com. Images and annotations are available on this link and follow the YOLO label format.
 The weights of the fine tuned YOLOCDD can be find in this repository.
 
 # Citing Child Detection Dataset
